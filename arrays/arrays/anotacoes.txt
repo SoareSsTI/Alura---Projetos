@@ -1,0 +1,7 @@
+Não é necessário abrir uma função com function
+
+Não precisa colocar ponto e virgula ao fim das linhas
+
+Usar sempre let como variável
+
+Usar const quando não for mudar o valor atribuido
